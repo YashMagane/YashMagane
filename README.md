@@ -1,10 +1,10 @@
 # 👋 Hello, I'm Yash Magane
 
 💻 **Software Developer** with experience in **front-end** and **back-end** development.  
-I specialize in building **responsive, efficient web applications** using **JavaScript**, **React**, **Node.js**, and **Express**.  
+I specialise in building **responsive, efficient web applications** using **JavaScript**, **React**, **Node.js**, and **Express**.  
 
 I enjoy creating seamless digital experiences that blend functionality and design.  
-Explore my repositories to see what I’ve been working on — and feel free to reach out if you’d like to **collaborate** or **share feedback**.  
+Explore my repositories to see what I’ve been working on and feel free to reach out if you’d like to **collaborate**.  
 Let’s build something great together! 🚀
 
 ---
